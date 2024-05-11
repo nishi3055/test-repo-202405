@@ -12,7 +12,13 @@
 
 ##chapter02
 
+branchの作成
+
+できるかな
+
 ##chapter03
+
+反映させてみよう
 
 ##chapter04
 
